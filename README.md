@@ -26,8 +26,9 @@ This repository contains a beginner-friendly, well-structured PHP cheatsheet and
    php -S localhost:8000
    
 ---
-```
+
 ## 📂 Folder Structure
+```
 PHP-Cheatsheet-and-Notes/
 ├── 📄 README.md
 ├── 📁 notes/
